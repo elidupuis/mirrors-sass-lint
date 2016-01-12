@@ -6,5 +6,5 @@
     args: []
 
     # Use additional_dependencies to install the actual node package
-    additional_dependencies: ['sass-lint@0.1.0-alpha.3']
+    additional_dependencies: ['sass-lint@0.1.0-alpha.4']
     minimum_pre_commit_version: 0.7.0
